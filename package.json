@@ -1,0 +1,30 @@
+{
+  "name": "zift-tslint",
+  "version": "1.0.0",
+  "description": "Zift TSlint rules to enforce consistent code style.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmdrami/zift-tslint.git"
+  },
+  "main": "./tslint.json",
+  "keywords": [
+    "zift-tslint",
+    "tslint",
+    "angular",
+    "frontend",
+    "typescript"
+  ],
+  "author": {
+    "name": "Ahmad Rami",
+    "email": "ahmadrami@ziftsolutions.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmdrami/zift-tslint/issues"
+  },
+  "homepage": "https://github.com/ahmdrami/zift-tslint#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "codelyzer": ">=4.1.0",
+    "tslint": ">=5.9.0"
+  }
+}
